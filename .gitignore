@@ -1,0 +1,21 @@
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# Data files (optional — if you want to keep them out)
+# data/
+
+# OS files
+.DS_Store
+Thumbs.db
