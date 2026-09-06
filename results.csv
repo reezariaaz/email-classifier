@@ -1,13 +1,13 @@
 email_id,predicted_category,confidence_score
-email_1.html,Investment Advisory,0.4985
-email_10.html,Investment Advisory,0.5196
-email_11.html,Loan Processing,0.5179
-email_12.html,Account Management,0.51
-email_2.html,Investment Advisory,0.5057
-email_3.html,Investment Advisory,0.5083
-email_4.html,Account Management,0.5173
-email_5.html,Insurance Claims,0.5176
-email_6.html,Account Management,0.4938
-email_7.html,Account Management,0.5056
-email_8.html,Loan Processing,0.5111
-email_9.html,Investment Advisory,0.5053
+email_1.html,Investment Advisory,0.4395
+email_10.html,Investment Advisory,0.7835
+email_11.html,Loan Processing,0.7816
+email_12.html,Account Management,0.6446
+email_2.html,Investment Advisory,0.6372
+email_3.html,Investment Advisory,0.6766
+email_4.html,Account Management,0.6723
+email_5.html,Insurance Claims,0.786
+email_6.html,Other,0.439
+email_7.html,Account Management,0.6085
+email_8.html,Loan Processing,0.7174
+email_9.html,Investment Advisory,0.6231
